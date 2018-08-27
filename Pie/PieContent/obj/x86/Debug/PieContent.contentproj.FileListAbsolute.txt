@@ -1,0 +1,6 @@
+S:\Pie\Pie\PieContent\obj\x86\Debug\PieContent.contentprojResolveAssemblyReference.cache
+G:\Pie\Pie\PieContent\obj\x86\Debug\PieContent.contentprojResolveAssemblyReference.cache
+H:\Pie\Pie\PieContent\obj\x86\Debug\PieContent.contentprojResolveAssemblyReference.cache
+O:\Pie\Pie\PieContent\obj\x86\Debug\PieContent.contentprojResolveAssemblyReference.cache
+N:\Pie\Pie\PieContent\obj\x86\Debug\PieContent.contentprojResolveAssemblyReference.cache
+L:\Pie\Pie\PieContent\obj\x86\Debug\ResolveAssemblyReference.cache

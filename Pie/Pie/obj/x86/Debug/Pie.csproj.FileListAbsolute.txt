@@ -1,0 +1,152 @@
+G:\Pie\Pie\Pie\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\blank.xnb
+G:\Pie\Pie\Pie\bin\x86\Debug\Content\Fonts\menuFont.xnb
+G:\Pie\Pie\Pie\bin\x86\Debug\Content\Models\Ground-Beta.xnb
+G:\Pie\Pie\Pie\bin\x86\Debug\Content\Models\cube.xnb
+G:\Pie\Pie\Pie\bin\x86\Debug\Pie.exe.manifest
+G:\Pie\Pie\Pie\bin\x86\Debug\Pie.application
+G:\Pie\Pie\Pie\bin\x86\Debug\Pie.exe
+G:\Pie\Pie\Pie\bin\x86\Debug\Pie.pdb
+G:\Pie\Pie\Pie\obj\x86\Debug\Pie.exe.manifest
+G:\Pie\Pie\Pie\obj\x86\Debug\Pie.application
+G:\Pie\Pie\Pie\obj\x86\Debug\Pie.exe
+G:\Pie\Pie\Pie\obj\x86\Debug\Pie.pdb
+O:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\blank.xnb
+O:\Pie\Pie\Pie\bin\x86\Debug\Content\Fonts\menuFont.xnb
+O:\Pie\Pie\Pie\bin\x86\Debug\Content\Models\Ground-Beta.xnb
+O:\Pie\Pie\Pie\bin\x86\Debug\Content\Models\cube.xnb
+O:\Pie\Pie\Pie\bin\x86\Debug\Pie.exe.manifest
+O:\Pie\Pie\Pie\bin\x86\Debug\Pie.application
+O:\Pie\Pie\Pie\bin\x86\Debug\Pie.exe
+O:\Pie\Pie\Pie\bin\x86\Debug\Pie.pdb
+O:\Pie\Pie\Pie\obj\x86\Debug\Pie.csprojResolveAssemblyReference.cache
+O:\Pie\Pie\Pie\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+O:\Pie\Pie\Pie\obj\x86\Debug\Pie.exe.manifest
+O:\Pie\Pie\Pie\obj\x86\Debug\Pie.application
+O:\Pie\Pie\Pie\obj\x86\Debug\Pie.exe
+O:\Pie\Pie\Pie\obj\x86\Debug\Pie.pdb
+G:\Pie\Pie\Pie\obj\x86\Debug\Pie.csprojResolveAssemblyReference.cache
+O:\Pie\Pie\Pie\bin\x86\Debug\Content\Fonts\title.xnb
+O:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\HealthBar.xnb
+O:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\HealthBarBorders.xnb
+G:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\HealthBar.xnb
+G:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\HealthBarBorders.xnb
+G:\Pie\Pie\Pie\bin\x86\Debug\Content\Fonts\title.xnb
+G:\Pie\Pie\Pie\bin\x86\Debug\Content\Fonts\BigFont.xnb
+O:\Pie\Pie\Pie\bin\x86\Debug\Content\Fonts\BigFont.xnb
+O:\Pie\Pie\Pie\bin\x86\Debug\Content\Models\Coin.xnb
+O:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\Coin.xnb
+O:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\Enemy.xnb
+O:\Pie\Pie\Pie\bin\x86\Debug\Content\Fonts\SmallFont.xnb
+G:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\Coin.xnb
+G:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\Enemy.xnb
+G:\Pie\Pie\Pie\bin\x86\Debug\Content\Fonts\SmallFont.xnb
+G:\Pie\Pie\Pie\bin\x86\Debug\Content\Models\Coin.xnb
+G:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\bullet.xnb
+O:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\bullet.xnb
+G:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\Instructions.xnb
+O:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\Instructions.xnb
+G:\Pie\Pie\Pie\bin\x86\Debug\Content\Models\android.xnb
+O:\Pie\Pie\Pie\bin\x86\Debug\Content\Models\android.xnb
+O:\Pie\Pie\Pie\bin\x86\Debug\Content\Models\bullet.xnb
+O:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\leftArrow.xnb
+O:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\lowerArrow.xnb
+O:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\rightArrow.xnb
+O:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\upperArrow.xnb
+G:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\leftArrow.xnb
+G:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\lowerArrow.xnb
+G:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\rightArrow.xnb
+G:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\upperArrow.xnb
+G:\Pie\Pie\Pie\bin\x86\Debug\Content\Models\bullet.xnb
+N:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\blank.xnb
+N:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\HealthBar.xnb
+N:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\HealthBarBorders.xnb
+N:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\Coin.xnb
+N:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\Enemy.xnb
+N:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\bullet.xnb
+N:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\Instructions.xnb
+N:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\leftArrow.xnb
+N:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\lowerArrow.xnb
+N:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\rightArrow.xnb
+N:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\upperArrow.xnb
+N:\Pie\Pie\Pie\bin\x86\Debug\Content\Fonts\menuFont.xnb
+N:\Pie\Pie\Pie\bin\x86\Debug\Content\Fonts\title.xnb
+N:\Pie\Pie\Pie\bin\x86\Debug\Content\Fonts\BigFont.xnb
+N:\Pie\Pie\Pie\bin\x86\Debug\Content\Fonts\SmallFont.xnb
+N:\Pie\Pie\Pie\bin\x86\Debug\Content\Models\Ground-Beta.xnb
+N:\Pie\Pie\Pie\bin\x86\Debug\Content\Models\cube.xnb
+N:\Pie\Pie\Pie\bin\x86\Debug\Content\Models\Coin.xnb
+N:\Pie\Pie\Pie\bin\x86\Debug\Content\Models\android.xnb
+N:\Pie\Pie\Pie\bin\x86\Debug\Content\Models\bullet.xnb
+N:\Pie\Pie\Pie\bin\x86\Debug\Pie.exe.manifest
+N:\Pie\Pie\Pie\bin\x86\Debug\Pie.application
+N:\Pie\Pie\Pie\bin\x86\Debug\Pie.exe
+N:\Pie\Pie\Pie\bin\x86\Debug\Pie.pdb
+N:\Pie\Pie\Pie\obj\x86\Debug\Pie.csprojResolveAssemblyReference.cache
+N:\Pie\Pie\Pie\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+N:\Pie\Pie\Pie\obj\x86\Debug\Pie.exe.manifest
+N:\Pie\Pie\Pie\obj\x86\Debug\Pie.application
+N:\Pie\Pie\Pie\obj\x86\Debug\Pie.exe
+N:\Pie\Pie\Pie\obj\x86\Debug\Pie.pdb
+G:\Pie\Pie\Pie\bin\x86\Debug\Content\Models\level2.xnb
+N:\Pie\Pie\Pie\bin\x86\Debug\Content\Models\level2.xnb
+N:\Pie\Pie\Pie\bin\x86\Debug\Content\Sounds\Pie Volume 1.xnb
+N:\Pie\Pie\Pie\bin\x86\Debug\Content\Sounds\Pie Volume 2.xnb
+N:\Pie\Pie\Pie\bin\x86\Debug\Content\Sounds\Pie Volume 3.xnb
+N:\Pie\Pie\Pie\bin\x86\Debug\Content\Sounds\Pie Volume 4.xnb
+N:\Pie\Pie\Pie\bin\x86\Debug\Content\Sounds\Pie Volume 5.xnb
+N:\Pie\Pie\Pie\bin\x86\Debug\Content\Sounds\Pie Volume 6.xnb
+N:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\Objective.xnb
+N:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\Keyboard.xnb
+N:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\Mouse.xnb
+G:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\Objective.xnb
+G:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\Keyboard.xnb
+G:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\Mouse.xnb
+G:\Pie\Pie\Pie\bin\x86\Debug\Content\Sounds\Pie Volume 1.xnb
+G:\Pie\Pie\Pie\bin\x86\Debug\Content\Sounds\Pie Volume 2.xnb
+G:\Pie\Pie\Pie\bin\x86\Debug\Content\Sounds\Pie Volume 3.xnb
+G:\Pie\Pie\Pie\bin\x86\Debug\Content\Sounds\Pie Volume 4.xnb
+G:\Pie\Pie\Pie\bin\x86\Debug\Content\Sounds\Pie Volume 5.xnb
+G:\Pie\Pie\Pie\bin\x86\Debug\Content\Sounds\Pie Volume 6.xnb
+L:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\blank.xnb
+L:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\HealthBar.xnb
+L:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\HealthBarBorders.xnb
+L:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\Coin.xnb
+L:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\Enemy.xnb
+L:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\bullet.xnb
+L:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\Instructions.xnb
+L:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\leftArrow.xnb
+L:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\lowerArrow.xnb
+L:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\rightArrow.xnb
+L:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\upperArrow.xnb
+L:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\Objective.xnb
+L:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\Keyboard.xnb
+L:\Pie\Pie\Pie\bin\x86\Debug\Content\Textures\Mouse.xnb
+L:\Pie\Pie\Pie\bin\x86\Debug\Content\Fonts\menuFont.xnb
+L:\Pie\Pie\Pie\bin\x86\Debug\Content\Fonts\title.xnb
+L:\Pie\Pie\Pie\bin\x86\Debug\Content\Fonts\BigFont.xnb
+L:\Pie\Pie\Pie\bin\x86\Debug\Content\Fonts\SmallFont.xnb
+L:\Pie\Pie\Pie\bin\x86\Debug\Content\Models\Ground-Beta.xnb
+L:\Pie\Pie\Pie\bin\x86\Debug\Content\Models\cube.xnb
+L:\Pie\Pie\Pie\bin\x86\Debug\Content\Models\Coin.xnb
+L:\Pie\Pie\Pie\bin\x86\Debug\Content\Models\android.xnb
+L:\Pie\Pie\Pie\bin\x86\Debug\Content\Models\bullet.xnb
+L:\Pie\Pie\Pie\bin\x86\Debug\Content\Models\level2.xnb
+L:\Pie\Pie\Pie\bin\x86\Debug\Content\Sounds\Pie Volume 1.xnb
+L:\Pie\Pie\Pie\bin\x86\Debug\Content\Sounds\Pie Volume 2.xnb
+L:\Pie\Pie\Pie\bin\x86\Debug\Content\Sounds\Pie Volume 3.xnb
+L:\Pie\Pie\Pie\bin\x86\Debug\Content\Sounds\Pie Volume 4.xnb
+L:\Pie\Pie\Pie\bin\x86\Debug\Content\Sounds\Pie Volume 5.xnb
+L:\Pie\Pie\Pie\bin\x86\Debug\Content\Sounds\Pie Volume 6.xnb
+L:\Pie\Pie\Pie\bin\x86\Debug\Pie.exe.manifest
+L:\Pie\Pie\Pie\bin\x86\Debug\Pie.application
+L:\Pie\Pie\Pie\bin\x86\Debug\Pie.exe
+L:\Pie\Pie\Pie\bin\x86\Debug\Pie.pdb
+L:\Pie\Pie\Pie\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Pie\Pie\Pie\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+L:\Pie\Pie\Pie\obj\x86\Debug\Pie.exe.manifest
+L:\Pie\Pie\Pie\obj\x86\Debug\Pie.application
+L:\Pie\Pie\Pie\obj\x86\Debug\Pie.exe
+L:\Pie\Pie\Pie\obj\x86\Debug\Pie.pdb
+N:\Pie\Pie\Pie\bin\x86\Debug\Content\Models\level3.xnb
+G:\Pie\Pie\Pie\bin\x86\Debug\Content\Models\level3.xnb
